@@ -37,13 +37,20 @@
 
 # 6. 웹 진행사항
 ***
+**자바스프링을 사용**
 
+(1) 로그인 이후 스트리밍을 받을 수 있는 창(초안)
 ![웹구상_1](https://user-images.githubusercontent.com/105179675/174916545-ec5db82e-a225-428c-8054-284f316cee17.png)
+
+(2) 회원가입 (초안)
 ![웹구상_2](https://user-images.githubusercontent.com/105179675/174916552-a94a1720-d939-4b8c-9da8-0383e9f8c3d8.png)
 
 
 # 7. 스트리밍 진행사항
 ***
+
+**VLC 를 이용하여 스트리밍 서버를 만들어서 html로 만든 사이트에 영상 수신**
+
 ![스트리밍_1](https://user-images.githubusercontent.com/105179675/174916511-ac809b8e-71c4-41eb-9dbb-21794eca96ca.png)
 ![스트리밍_2](https://user-images.githubusercontent.com/105179675/174917593-49c03de4-e35e-40be-9a06-7ca9cc094a79.png)
 
