@@ -24,14 +24,32 @@
 ![블록도](https://user-images.githubusercontent.com/105179675/168029591-fee5c1a0-b585-4f60-bbb4-1cfe7b46bc28.PNG)
 
 
-# 5. 진행사항
+
+# 5. 얼굴 인식 진행사항
 ***
 모델을 cnn으로 구현 중 교수님께 조언을 받고 teachable machine으로 바꾸어 모델 추출 완료 후 python에서 opencv를 써서 사용하고 현재 웹 진행 중
 하지만 각도가 달라지거나 옷이 달라져도 정확도가 떨어짐 -> 더 많은 데이터 확보로 모델 추출 재시도
 ![image](https://user-images.githubusercontent.com/105179675/168030106-62e1658a-5461-424e-9a90-37eeadda5b9e.png)
 
 
-# 6. 사용한 소스코드
+
+
+
+# 6. 웹 진행사항
+***
+
+![웹구상_1](https://user-images.githubusercontent.com/105179675/174916545-ec5db82e-a225-428c-8054-284f316cee17.png)
+![웹구상_2](https://user-images.githubusercontent.com/105179675/174916552-a94a1720-d939-4b8c-9da8-0383e9f8c3d8.png)
+
+
+# 7. 스트리밍 진행사항
+***
+![스트리밍_1](https://user-images.githubusercontent.com/105179675/174916511-ac809b8e-71c4-41eb-9dbb-21794eca96ca.png)
+![스트리밍_2](https://user-images.githubusercontent.com/105179675/174917593-49c03de4-e35e-40be-9a06-7ca9cc094a79.png)
+
+
+
+# 8. 사용한 소스코드
 ***
 
 <pre>
@@ -73,6 +91,10 @@ while cap.isOpened():
         break
 </code>
 <pre>
+
+# 9. 참고한 링크
+***
+스트리밍_1 = https://m.post.naver.com/viewer/postView.nhn?volumeNo=29553682&memberNo=2534901&vType=VERTICAL
 
 
 
