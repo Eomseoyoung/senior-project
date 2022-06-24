@@ -1,4 +1,4 @@
-# 얼굴인식 자동출석 프로그램
+# _얼굴인식 자동출석 프로그램_
 
 
 ## 1. 작품의 필요성
@@ -59,8 +59,9 @@
 2. 그 주소를 포트포워딩함
 3. 포트포워딩한 주소를 프로토콜형식으로 변환
 
-
+(vlc로 확인)
 ![스트리밍_1](https://user-images.githubusercontent.com/105179675/174916511-ac809b8e-71c4-41eb-9dbb-21794eca96ca.png)
+(스트리밍 창 )
 ![스트리밍_2](https://user-images.githubusercontent.com/105179675/174917593-49c03de4-e35e-40be-9a06-7ca9cc094a79.png)
 
 
@@ -69,6 +70,7 @@
 ***
 
 ```
+<teachable machine 모델 확인>
 import tensorflow.keras
 import numpy as np
 import cv2
