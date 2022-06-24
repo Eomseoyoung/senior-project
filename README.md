@@ -21,7 +21,8 @@
 
 # 4. 블록도
 ***
-![블록도](https://user-images.githubusercontent.com/105179675/168029591-fee5c1a0-b585-4f60-bbb4-1cfe7b46bc28.PNG)
+
+![졸작 블럭도](https://user-images.githubusercontent.com/105179675/175463171-40adc658-bd5c-44f6-a531-a7ad0fdb89e4.PNG)
 
 
 
