@@ -31,6 +31,8 @@
 하지만 각도가 달라지거나 옷이 달라져도 정확도가 떨어짐 -> 더 많은 데이터 확보로 모델 추출 재시도
 ![image](https://user-images.githubusercontent.com/105179675/168030106-62e1658a-5461-424e-9a90-37eeadda5b9e.png)
 
+**얼굴인식률이 낮아 dlib을 사용 중**
+
 
 
 
@@ -59,8 +61,7 @@
 # 8. 사용한 소스코드
 ***
 
-<pre>
-<code>
+```
 import tensorflow.keras
 import numpy as np
 import cv2
@@ -96,15 +97,14 @@ while cap.isOpened():
     cv2.imshow('result', img)
     if cv2.waitKey(1) == ord('q'):
         break
-</code>
-<pre>
-
+```
 
 
 # 9. 참고한 링크
 ***
 
-[blog] = https://m.post.naver.com/viewer/postView.nhn?volumeNo=29553682&memberNo=2534901&vType=VERTICAL
+[스트리밍](https://m.post.naver.com/viewer/postView.nhn?volumeNo=29553682&memberNo=2534901&vType=VERTICAL)
 
+[얼굴인식_dlib](https://yunwoong.tistory.com/84)
 
-
+[dlib_설치_anaconda](https://blog.naver.com/PostView.nhn?blogId=os2dr&logNo=221818707061&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
