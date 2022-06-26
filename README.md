@@ -28,7 +28,7 @@
 
 ## 5. 얼굴인식 설계
 ***
-1. teachable machine model 사용 얼굴 인식 설계 (실패)
+###1. teachable machine model 사용 얼굴 인식 설계 (실패)
 
 1) 모델을 cnn으로 구현 
 2) teachable machine을 사용해 model(.h5) 추출
@@ -43,7 +43,7 @@
 
 ***
 
-2. dlib 얼굴 인식 설계 (진행중)
+###2. dlib 얼굴 인식 설계 (진행중)
 
 1) c++ 라이브러리라서 anaconda를 사용해 python에 사용 가능하게 설치
 2) 얼굴인식을 위해 얼굴 데이터 수집 
