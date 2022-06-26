@@ -30,9 +30,9 @@
 ***
 ### 1. teachable machine model 사용 얼굴 인식 설계 (실패)
 
-1) 모델을 cnn으로 구현 
-2) teachable machine을 사용해 model(.h5) 추출
-3) python에서 opencv 라이브러리를 사용해 실행
+(1) 모델을 cnn으로 구현 
+(2) teachable machine을 사용해 model(.h5) 추출
+(3) python에서 opencv 라이브러리를 사용해 실행
 
 
 ![image](https://user-images.githubusercontent.com/105179675/168030106-62e1658a-5461-424e-9a90-37eeadda5b9e.png)
@@ -57,9 +57,9 @@
 
 ## 6. 웹서버 설계 (진행중)
 ***
-1) 자바 스프링 사용
-2) 회원가입하는 창 설계
-3) 로그인 이후 스트리밍을 받을 수 있는 창 설계
+(1) 자바 스프링 사용
+(2) 회원가입하는 창 설계
+(3) 로그인 이후 스트리밍을 받을 수 있는 창 설계
 
 (1) 로그인 이후 스트리밍을 받을 수 있는 창(초안)
 ![웹구상_1](https://user-images.githubusercontent.com/105179675/174916545-ec5db82e-a225-428c-8054-284f316cee17.png)
@@ -71,11 +71,11 @@
 ## 7. 스트리밍 설계
 ***
 
-1) 스트리밍 서버를 만듦.
-2) VLC 사용 
-3) 스트리밍 ip주소를 따옴.
-4) 그 주소를 포트포워딩함
-5) 포트포워딩한 주소를 프로토콜형식으로 변환
+(1) 스트리밍 서버를 만듦.
+(2) VLC 사용 
+(3) 스트리밍 ip주소를 따옴.
+(4) 그 주소를 포트포워딩함
+(5) 포트포워딩한 주소를 프로토콜형식으로 변환
 
 (vlc로 확인)
 ![스트리밍_1](https://user-images.githubusercontent.com/105179675/174916511-ac809b8e-71c4-41eb-9dbb-21794eca96ca.png)
