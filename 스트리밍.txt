@@ -1,0 +1,1 @@
+<p><video id="video" src="http://172.30.1.6:8080/" autoplay = "autoplay" width = "700" height = "480"></video></p>
