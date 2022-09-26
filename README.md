@@ -53,7 +53,12 @@
 1) c++ 라이브러리라서 anaconda를 사용해 python에 사용 가능하게 설치
 2) 얼굴인식을 위해 얼굴 데이터 수집 
 
+![image](https://user-images.githubusercontent.com/105179675/192308500-df332076-1901-4b9d-9c54-aa96d37fba9f.png)
 
+![image](https://user-images.githubusercontent.com/105179675/192308660-a2ec2250-eeee-479e-b9c0-375e7fb9fc5d.png)
+
+
+3) 얼굴인식 성공
 
 
 ## 6. 웹서버 설계 (진행중)
