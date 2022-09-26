@@ -24,7 +24,8 @@
 ![졸작블럭도](https://user-images.githubusercontent.com/105179675/175839077-d8212a2b-5a7a-4df4-93fe-9db5d68848c6.PNG)
 
 
-
+(세부블록도)
+![image](https://user-images.githubusercontent.com/105179675/192323280-87d32bc1-20cf-4d5c-a25d-6c8a234bf17d.png)
 
 
 ## 5. 얼굴인식 설계
