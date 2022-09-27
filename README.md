@@ -25,7 +25,7 @@
 
 
 (세부블록도)
-![image](https://user-images.githubusercontent.com/105179675/192323280-87d32bc1-20cf-4d5c-a25d-6c8a234bf17d.png)
+![image](https://user-images.githubusercontent.com/105179675/192426412-3fe748f2-6e1a-4e4e-8707-598596819bf4.png)
 
 
 ## 5. 얼굴인식 설계
