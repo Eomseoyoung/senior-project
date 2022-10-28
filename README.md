@@ -8,8 +8,7 @@
 
 ## 2. 작품 목표
 ***
-여러명의 얼굴은 인식하고 웹에 저장 후 얼굴인식 확률을 95퍼 이상으로 만듦
-
+여러명의 얼굴을 인식하여 출결정보를 웹에 저장
 
 ## 3. 작품 세부내용
 ***
@@ -39,7 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/105179675/168030106-62e1658a-5461-424e-9a90-37eeadda5b9e.png)
 
-문제점1) 많은 데이터를 가져도 얼굴인식률이 낮음
+문제점1) 많은 세부 데이터를 가져도 얼굴인식률이 낮음
 문제점2) cnn으로 구성되어있어서 얼굴 분류만 가능
 문제점3) 각도가 달라지거나 옷이 달라져도 정확도가 떨어짐
 
@@ -51,7 +50,8 @@
 
 ### 2. dlib 얼굴 인식 설계 (진행중)
 
-1) c++ 라이브러리라서 anaconda를 사용해 python에 사용 가능하게 설치
+1) dlib과 face_recogniton을 python에 사용 가능하게 설치
+
 2) 얼굴인식을 위해 얼굴 데이터 수집 
 
 ![image](https://user-images.githubusercontent.com/105179675/192308500-df332076-1901-4b9d-9c54-aa96d37fba9f.png)
@@ -73,6 +73,9 @@
 
 (2) 회원가입 (초안)
 ![웹구상_2](https://user-images.githubusercontent.com/105179675/174916552-a94a1720-d939-4b8c-9da8-0383e9f8c3d8.png)
+
+(3) RTST를 이용해 웹에 스트리밍창 설정
+![69F6A862-1ADF-4B36-B00C-FC9F7C6BBFA2](https://user-images.githubusercontent.com/105179675/198420590-eb564ddf-cedc-46eb-88e9-9bc1b07dc42b.png)
 
 
 ## 7. 스트리밍 설계
@@ -101,3 +104,5 @@
 [얼굴인식_dlib](https://yunwoong.tistory.com/84)
 
 [dlib_설치_anaconda](https://blog.naver.com/PostView.nhn?blogId=os2dr&logNo=221818707061&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
+
+[dlib_](https://thecodingnote.tistory.com/8)
